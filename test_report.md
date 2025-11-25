@@ -2,7 +2,7 @@
 # 1️⃣ Introduction
 
 ## Tester(s):
-Name: Nirdesh Pokharel
+Name: Nirdesh Pokharel, Ashish Thapa
 
 ## Purpose:
 The purpose of this penetration test is to identify vulnerabilities in the Booking System (Phase 1) registration flow and related HTTP security configurations using automated scanning tools (OWASP ZAP).
